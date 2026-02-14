@@ -145,3 +145,29 @@ Married customers had different acceptance behavior compared to single customers
 Middle-aged customers were more likely to accept loan offers.
 
 Model helped identify high-potential customer segments for targeted marketing.
+
+Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-Learn
+
+ Overall Conclusion
+
+These tasks demonstrate practical machine learning skills including:
+
+ Data Cleaning & Preprocessing
+ Feature Encoding
+ Classification & Regression Modeling
+ Model Evaluation (Accuracy, MAE, RMSE, Confusion Matrix)
+ Extracting Business Insights from Data
+
+The projects simulate real-world business problems in banking, insurance, and finance domains.
